@@ -120,7 +120,7 @@ Si algo define mi forma de trabajar es la curiosidad y la dedicación, siempre c
 
 Fuera del mundo del código, disfruto mucho:  
 - 🏃‍♂️ Practicar deportes de equipo para mantenerme en forma y activo.  
-- 🪴 Perderme en la naturaleza ya sea haciendo rutas con amigos o camninando por mi cuenta  para despejar la mente.  
+- 🪴 Perderme en la naturaleza ya sea haciendo rutas con amigos o caminando por mi cuenta  para despejar la mente.  
 - 🍽️ Me encanta descubrir nuevos lugares para disfrutar de la comida, probando nuevos sabores y platos diferentes.
 - ✈️ Viajar ya sea a pueblos rurales o grandes ciudades, me gusta explorar sitios nuevos y aprender sobre su cultura e historia.
 
