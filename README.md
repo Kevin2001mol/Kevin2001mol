@@ -42,12 +42,6 @@ Si algo define mi forma de trabajar es la curiosidad y la dedicación, siempre c
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
@@ -60,18 +54,13 @@ Si algo define mi forma de trabajar es la curiosidad y la dedicación, siempre c
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  </a>
   <a href="https://strapi.io/" target="_blank">
     <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white"/>
   </a>
   <a href="https://wordpress.org/" target="_blank">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   </a>
-  <a href="https://www.odoo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
-  </a>
+
 
 </p>
 
@@ -92,6 +81,12 @@ Si algo define mi forma de trabajar es la curiosidad y la dedicación, siempre c
   </a>
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  </a>
+    <a href="https://www.odoo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+  </a>
+    <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   </a>
 
 </p>
