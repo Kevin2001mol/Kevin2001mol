@@ -1,13 +1,11 @@
 <h1 align="center">👋 ¡Hola! Soy Kevin</h1>
 
-<p align="center">
+<p>
 ¡Hola! Soy Kevin Molina, un apasionado del desarrollo de software con formación en Desarrollo de Aplicaciones Multiplataforma (DAM). Desde que empecé a adentrarme en el mundo de la tecnología, supe que quería dedicarme a crear soluciones que realmente marquen la diferencia.
 
-Mi trayectoria no ha sido directa; he explorado distintas áreas y experiencias que me han ayudado a entender mejor cómo afrontar problemas y colaborar con otros. Actualmente, me especializo en desarrollo full-stack, trabajando tanto con frontend como backend y bases de datos. Me encanta la idea de unir todas estas piezas para construir aplicaciones completas, funcionales y que sean fáciles de usar.
+Mi trayectoria no ha sido directa; he explorado distintas áreas y experiencias que me han ayudado a entender mejor cómo afrontar problemas y colaborar con otros. 
 
-Lo que más me motiva es el aprendizaje constante. La tecnología avanza rápido y me gusta estar siempre al día, experimentando con nuevas herramientas y metodologías para mejorar mis habilidades. Además, valoro mucho el trabajo en equipo: creo que comunicarse con claridad, compartir ideas y encontrar soluciones juntos es clave para sacar adelante cualquier proyecto.
-
-Mis objetivos son claros: crecer profesionalmente, asumir nuevos retos que me permitan seguir mejorando y contribuir con mi trabajo en proyectos que tengan un impacto real y positivo. Me encanta afrontar nuevos desafíos, aprender de cada experiencia y seguir construyendo un camino sólido en el mundo del desarrollo.
+Actualmente, me especializo en desarrollo full-stack, trabajando tanto con frontend como backend y bases de datos. Me encanta la idea de unir todas estas piezas para construir aplicaciones completas, funcionales y que sean fáciles de usar.
 
 Si algo define mi forma de trabajar es la curiosidad y la dedicación, siempre con la mente abierta para adaptarme y colaborar de la mejor manera posible.
 
