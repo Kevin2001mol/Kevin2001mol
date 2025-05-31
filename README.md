@@ -98,17 +98,6 @@ Si algo define mi forma de trabajar es la curiosidad y la dedicación, siempre c
 - 🧠 Salesforce: aprendiendo a utilizarlo tanto como **usuario funcional** como **desarrollador**
 ---
 
-## 📂 Algunos de mis proyectos
-
-- ⚙️ **Prueba Técnica de Strapi 5** – Proyecto para demostrar habilidades técnicas en desarrollo de aplicaciones, con enfoque en buenas prácticas y funcionalidad.  
-  [🔗 Repositorio](https://github.com/Kevin2001mol/pruebaTecnicaKevin)
-
-- 🚆 **Reserva de trenes** – Aplicación web para reservar billetes de tren con interfaz intuitiva y funcionalidades clave. [🔗 Repositorio](https://github.com/Kevin2001mol/Reserva-de-trenes)
-
-*(En breve iré añadiendo más proyectos reales con enlaces y capturas)*
-
----
-
 ## 🎨 Aficiones
 
 Fuera del mundo del código, disfruto mucho:  
