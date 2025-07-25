@@ -93,7 +93,7 @@ Si algo define mi forma de trabajar es la curiosidad y la dedicación, siempre c
 ---
 
 ## 🚀 Últimos proyectos
-- [SmartCareerMate]([https://kevinhub.dev](https://smartcareermate.kevinhub.dev/home)) – App full-stack con IA para procesos de selección
+- [SmartCareerMate](https://smartcareermate.kevinhub.dev/home) – App full-stack con IA para procesos de selección
 - [Portfolio personal](https://kevinhub.dev) – Proyectos, ideas y evolución
 
 ---
